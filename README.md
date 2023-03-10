@@ -12,3 +12,4 @@ tu = ()
  
  
 common functions that can be applied on tuple 
+  
